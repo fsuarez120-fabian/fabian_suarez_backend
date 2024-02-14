@@ -1,3 +1,26 @@
 1. nombre
 2. la edad
 3. el colegio donde se graduaron
+
+
+Nombre: Bill Gates
+
+Fecha de nacimiento: 28 de octubre de 1955
+
+Lugar de nacimiento: Seattle, Washington, Estados Unidos
+
+Educación: Gates asistió a la prestigiosa Universidad de Harvard, pero abandonó sus estudios en 1975 para fundar Microsoft.
+
+Logros destacados:
+
+Microsoft: Bill Gates es cofundador de Microsoft Corporation, una de las empresas de tecnología más grandes y exitosas del mundo. Junto con su amigo de la infancia Paul Allen, Gates fundó Microsoft en 1975. La empresa se convirtió en un líder en software para computadoras personales con productos como el sistema operativo Windows y la suite de productividad Office.
+
+Filantropía: Junto con su esposa Melinda Gates, Bill Gates es conocido por su filantropía a través de la Fundación Bill y Melinda Gates, una de las organizaciones benéficas más grandes del mundo. La fundación se enfoca en mejorar la salud global, combatir la pobreza y ampliar el acceso a la educación.
+
+Autor: Gates ha escrito varios libros sobre negocios y tecnología. Uno de los más conocidos es "The Road Ahead", publicado en 1995, en el que ofrece su visión del futuro de la tecnología y la sociedad.
+
+Líder empresarial: Gates fue CEO de Microsoft hasta 2000 y presidente de la empresa hasta 2014. Durante su tiempo en Microsoft, fue ampliamente reconocido como un líder visionario en la industria de la tecnología.
+
+Legado: Bill Gates ha dejado un legado duradero en el mundo de la tecnología y la filantropía. Su influencia en el desarrollo de la computación personal y su compromiso con la mejora del bienestar global lo han convertido en una figura destacada en la historia moderna.
+
+Esta es una visión general de la vida y los logros de Bill Gates. Su impacto en el mundo de la tecnología y la filantropía es vasto y sigue siendo relevante hasta el día de hoy.
